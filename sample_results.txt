@@ -1,0 +1,16 @@
+GROVER QUANTUM SEARCH
+
+Input numbers: 3, 7, 9, 12, 14
+Target number: 9
+
+Number of qubits representing candidates: 4
+Possible candidate values: 16
+Grover iterations: 3
+Measurement shots: 1024
+
+Expected result:
+The target value 9 should appear with high probability
+when it is present in the input list.
+
+Note:
+Actual measurement counts depend on the simulation.
